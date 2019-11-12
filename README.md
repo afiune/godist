@@ -35,7 +35,7 @@ packages. (See a real example at [example-multi-pkg/](example-multi-pkg).)
 ### Example-3
 
 To fully customize this automation, a user can provide a URL pointing to a custom JSON
-file as a third parameter to the `go:generate` directive, such file should contains the
+file as a third parameter to the `go:generate` directive. This custom JSON file should contain the
 global variables to generate. (See an example of a JSON file at
 [glob_dist.json](glob_dist.json).)
 
