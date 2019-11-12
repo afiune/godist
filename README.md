@@ -20,7 +20,7 @@ inside the JSON file `glob_dist.json` inside this repository. (See a real exampl
 at [example-main/](example-main).)
 
 ### Example-2
-In our second example involving multi-package. Create a go package called `dist`
+In our second example involving multi-package, create a go package called `dist`
 with a file called `gen.go` with the following command:
 
 ```go
